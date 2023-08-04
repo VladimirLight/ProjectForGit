@@ -5,7 +5,10 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         Birds b1 = new Birds("Sokol", 7, 7);
-        b1.Chiric(2);
+        b1.Chiric(1);
+
+        Dogs d1 = new Dogs("Ovcharka");
+        d1.Gav();
 
     }
 }
