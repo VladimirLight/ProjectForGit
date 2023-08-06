@@ -10,5 +10,8 @@ public class Main {
         Dogs d1 = new Dogs("Ovcharka");
         d1.Gav();
 
+        Cats c1 = new Cats();
+        c1.Miau();
+
     }
 }
