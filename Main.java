@@ -13,5 +13,8 @@ public class Main {
         Cats c1 = new Cats();
         c1.Miau();
 
+        Flora f1 = new Flora("Romashka");
+        System.out.println(f1.Kind);
+
     }
 }
