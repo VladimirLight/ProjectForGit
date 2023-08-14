@@ -13,8 +13,7 @@ public class Main {
         Cats c1 = new Cats();
         c1.Miau();
 
-        Cars cr1 = new Cars("Ferrari");
-        System.out.println(cr1.Firma);
+
 
 
     }
