@@ -13,11 +13,7 @@ public class Main {
         Cats c1 = new Cats();
         c1.Miau();
 
-        for (int i = 0; i < 10; i++) {
-            c1.Miau();
-            if (i==3){
-                break;
-            }
+
         }
 
 
