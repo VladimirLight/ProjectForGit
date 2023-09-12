@@ -13,6 +13,9 @@ public class Main {
         Cats c1 = new Cats();
         c1.Miau();
 
+        Monkeys m1 = new Monkeys("shimpanze");
+        m1.Uua();
+
 
 
 
