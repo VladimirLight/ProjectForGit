@@ -16,6 +16,9 @@ public class Main {
         Monkeys m1 = new Monkeys("shimpanze");
         m1.Uua();
 
+        Lions l1 = new Lions();
+        l1.roar();
+
 
 
 
