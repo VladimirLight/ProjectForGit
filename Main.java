@@ -19,6 +19,8 @@ public class Main {
         Lions l1 = new Lions(7,200);
         l1.roar();
 
+        Fish f1 = new Fish("Losos", 7);
+
 
 
 
