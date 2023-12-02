@@ -21,6 +21,9 @@ public class Main {
 
         Fish f1 = new Fish("Losos", 7);
 
+        Whales w1 = new Whales("humpback whale");
+        w1.SoundOfWhales();
+
 
 
 
