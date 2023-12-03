@@ -1,6 +1,9 @@
 package org.example;
 
-public class Elephants extends Fish {
+public class Elephants {
+    String Kind;
+    int Age;
+    double Weight;
 
     Elephants(){}
 
