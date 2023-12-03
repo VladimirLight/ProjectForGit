@@ -24,6 +24,9 @@ public class Main {
         Whales w1 = new Whales("humpback whale");
         w1.SoundOfWhales();
 
+        Elephants e1 = new Elephants();
+        e1.trumpet();
+
 
 
 
