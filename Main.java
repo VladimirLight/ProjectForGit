@@ -27,6 +27,9 @@ public class Main {
         Elephants e1 = new Elephants();
         e1.trumpet();
 
+        Bulls bull1 = new Bulls();
+        bull1.Muuu();
+
 
 
 
